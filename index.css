@@ -223,7 +223,7 @@ body {
 }
 
 .reset button:hover {
-    background-color: #ffffff;
+    background-color: #00000;
     cursor: pointer;
     color: white;
 }
