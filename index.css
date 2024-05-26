@@ -1,5 +1,5 @@
 body {
-    background-color: #ffc3da;
+    background-color: #ffffff;
 }
 
 .envelope-wrapper {
@@ -39,7 +39,7 @@ body {
 }
 
 .pocket {
-    border-left: 140px solid #000000;
+    border-left: 140px solid #101010;
     border-right: 140px solid #101010;
     border-bottom: 90px solid #101010;
     border-top: 90px solid transparent;
