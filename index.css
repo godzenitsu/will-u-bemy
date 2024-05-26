@@ -1,5 +1,5 @@
 body {
-    background-color: #ffc3da;
+    background-color: #ffffff;
 }
 
 .envelope-wrapper {
@@ -15,7 +15,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     top: 50%;
-    background-color: #FF6863;
+    background-color: #ffffff;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 .flap {
-    border-top: 98px solid #FF6863;
+    border-top: 98px solid #00000;
     border-left: 140px solid transparent;
     border-right: 140px solid transparent;
     border-bottom: 82px solid transparent;
@@ -39,9 +39,9 @@ body {
 }
 
 .pocket {
-    border-left: 140px solid #FF8BA0;
-    border-right: 140px solid #FF8BA0;
-    border-bottom: 90px solid #FFA8B5;
+    border-left: 140px solid #000000;
+    border-right: 140px solid #101010;
+    border-bottom: 90px solid #000000;
     border-top: 90px solid transparent;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
@@ -74,7 +74,7 @@ body {
     width: 80%;
     height: 14%;
     font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, montserrat, sans-serif;
     color: black;
 }
 
@@ -134,7 +134,7 @@ body {
 .heart:before, .heart:after {
     position: absolute;
     content: "";
-    background: #d00000;
+    background: #000000;
     width: 50px;
     height: 80px;
     left: 50px;
@@ -207,9 +207,9 @@ body {
     font-style: normal;
     transition: all 0.1s linear;
     background-color: transparent;
-    border: solid 2px #FF6863;
+    border: solid 2px #101010;
     border-radius: 4px;
-    color: #FF6863;
+    color: #101010;
     display: inline-block;
     font-size: 14px;
     text-transform: uppercase;
@@ -223,14 +223,14 @@ body {
 }
 
 .reset button:hover {
-    background-color: #FF6863;
+    background-color: #ffffff;
     cursor: pointer;
     color: white;
 }
 
 .valentine {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, montserrat, sans-serif;
     color:rgb(20, 20, 20);
     font-size: 70px;
     margin: 150px;
