@@ -39,9 +39,9 @@ body {
 }
 
 .pocket {
-    border-left: 140px solid #ffffff;
-    border-right: 140px solid #ffffff;
-    border-bottom: 90px solid #ffffff;
+    border-left: 140px solid #000000;
+    border-right: 140px solid #101010;
+    border-bottom: 90px solid #000000;
     border-top: 90px solid transparent;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
