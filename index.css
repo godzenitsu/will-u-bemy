@@ -31,7 +31,7 @@ body {
 }
 
 .flap {
-    border-top: 98px solid #101010;
+    border-top: 98px solid #000000;
     border-left: 140px solid transparent;
     border-right: 140px solid transparent;
     border-bottom: 82px solid transparent;
